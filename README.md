@@ -3,7 +3,7 @@ This is library that handles telegram api and protocol.
 Current versions:
 
 - scheme.tl: Layer 38
-- encrypted_scheme.tl: Layer 23
+- encrypted_scheme.tl: Layer 2
 
 ### API, Protocol documentation
 
